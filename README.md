@@ -2,7 +2,7 @@
 Fast Supergraph Search Using DAG Integration
 
 ## Usages
-./IDAR_index <#(data graphs)> <data_file> <index_file>
+./IDAR_index <#(data graphs)> <data_file> <index_file>\
 ./IDAR_query <index_file> <query_file> <output_file>
 
 ## Experiments in the paper
